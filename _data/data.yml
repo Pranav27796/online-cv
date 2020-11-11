@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Pranavsairama Nair
+    name: Pranavsairama
     tagline: Msc in Management of Technology
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -70,8 +70,7 @@ education:
     - degree: B.Tech in Mechanical Engineering
       university: Manipal University Jaipur
       time: 2014 - 2018
-      details: |
-        
+      details: |        
 experiences:
     - role: Express Logistics - Intern
       time: Oct 2018 - April 2019
@@ -99,15 +98,13 @@ experiences:
         As a Design intern at L&T, I participated in a design project to facilitate the setup of an MV Drive panel for which
         I conducted the following tasks;
           - Structural analysis to select cable trays for the MV Drive
-          - Negotiating with vendors for crane installation at test site
-          
+          - Negotiating with vendors for crane installation at test site          
 extra-curriculars: 
     - role: abc
       time: Jan
       organisation: xyz
       details: |
         nxdjscbecnksd
-
 projects:
     title: Projects
     intro: >
@@ -134,8 +131,6 @@ projects:
       - title: 
         link: "#"
         tagline: 
-
-
 skills:
     title: Skills
 
@@ -149,5 +144,3 @@ skills:
       - name: Latex
         level: 85% 
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
