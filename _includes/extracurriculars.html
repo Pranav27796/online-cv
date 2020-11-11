@@ -1,4 +1,4 @@
-o{% assign extracurriculars = site.data.data.extracurriculars %}
+{% assign extracurriculars = site.data.data.extracurriculars %}
 {% if thesis %}
 <section class="section extracurriculars-section">
   <h2 class="section-title">
@@ -6,7 +6,7 @@ o{% assign extracurriculars = site.data.data.extracurriculars %}
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    extra-curriculars
+    extra curriculars
   </h2>
 
   {% for ec in extracurriculars %}
