@@ -112,7 +112,7 @@ extracurriculars:
     - role: Publicity and Promotions organiser at TedX MUJ
       time: March 2017
       organisation: Manipal University Jaipur, Jaipur, India
-      details:
+      details: |
         My responsibility as publicity and promotions organiser for the TedX event included;
           - Promoting Ted-Talk events in univerisities in Jaipur
           - Promoting standup comedy events in universities all over the country
@@ -120,7 +120,7 @@ extracurriculars:
     - role: Stalls and Catering organiser at Abhivarta
       time: Jan 2017
       organisation: Manipal University Jaipur, Jaipur, India
-      details:
+      details: |
         As a stalls and catering organiser for Abhivarta, the sports fest at Manipal University Jaipur, I was responsible for;
           - Negotiating with restaurants and fast-food vendors to set up stalls during the fest
           - Arranging and managing stalls and supplies for vendors during the fest
@@ -130,18 +130,17 @@ projects:
       
     assignments:
       - title: Solar panels for campers - Solarscape
-        link: "#hook"
-        tagline: "As a deliverable for the Logistics and Supply chain innovations course, this project was an analysis of the supply chain 
-        of a hypothetical solar panel(for campers) manufacturer using Supply Chain Operations Reference(SCOR) to propose smart supply chain innovation ideas"
+        link: 
+        tagline: "Analysis of the supply chain of a hypothetical solar panel(for campers) manufacturer using Supply Chain Operations Reference(SCOR) 
+        to propose smart supply chain innovation ideas"
 
       - title: Joint Interdisciplinary Project(JIP) - Smart Manufacturing Industry
-        link: "#"
-        tagline: "As a deliverable for JIP, this project was conducted to propose automation solutions to Accell Group for improving their bicycle assembly process"
+        link: 
+        tagline: "Analysis of current bicycle assembly process at Accell Group and proposing automation solutions for improving the same"
 
       - title: Truck Platooning
-        link: "#"
-        tagline: "As a deliverable for the Integration Moments course, this project was a consultancy report providing truck platoon organisation solutions
-        for the Port of Rotterdam"
+        link: 
+        tagline: "A consultancy report providing truck platoon organisation solutions for trucks in and out of the Port of Rotterdam"
 
       - title: 
         link: "#"
