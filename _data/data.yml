@@ -127,25 +127,6 @@ projects:
         link: "#"
         tagline: 
 
-publications:
-    title: 
-    intro: |
-      
-    papers:
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
-
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
-
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
 
 skills:
     title: Skills
@@ -158,16 +139,7 @@ skills:
         level: 90%
 
       - name: Latex
-        level: 85%
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
+        level: 85% 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
