@@ -107,13 +107,14 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Solar panels for campers - Solarscape
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Analysis of the supply chain of a hypothetical solar panel manufacturing company using Supply Chain Operations Reference(SCOR) 
+        and proposing ideas for smart supply chain"
 
-      - title: DevStudio
+      - title: Truck Platooning
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "As a deliverable for the Provided solutions for organising truck platoons in and out of the Port of Rotterdam"
 
       - title: Tempo
         link: "#"
@@ -130,46 +131,44 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
+      - title: 
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: 
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
+      - title: 
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: MS Powerpoint
         level: 95%
 
-      - name: Ruby on Rails
+      - name: MS Excel 
+        level: 90%
+
+      - name: Latex
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: 
+        level: 
+
+      - name: 
+        level: 
+
+      - name: 
+        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
