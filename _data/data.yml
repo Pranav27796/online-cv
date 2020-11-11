@@ -100,17 +100,20 @@ experiences:
         I conducted the following tasks;
           - Structural analysis to select cable trays for the MV Drive
           - Negotiating with vendors for crane installation at test site
+          
+extra-curricular: 
+    - role: abc
 projects:
     title: Projects
     intro: >
       
     assignments:
-      - title: Solar panels for campers: Solarscape
+      - title: Solar panels for campers - Solarscape
         link: "#hook"
         tagline: "As a deliverable for the Logistics and Supply chain innovations course, this project was an analysis of the supply chain 
         of a hypothetical solar panel(for campers) manufacturer using Supply Chain Operations Reference(SCOR) to propose smart supply chain innovation ideas"
 
-      - title: Joint Interdisciplinary Project(JIP): Smart Manufacturing Industry
+      - title: Joint Interdisciplinary Project(JIP) - Smart Manufacturing Industry
         link: "#"
         tagline: "As a deliverable for JIP, this project was conducted to propose automation solutions to Accell Group for improving their bicycle assembly process"
 
