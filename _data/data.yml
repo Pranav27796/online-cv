@@ -8,113 +8,98 @@ sidebar:
 
     # Profile information
     name: Pranavsairama Nair
-    tagline: Full Stack Developer
+    tagline: Msc in Management of Technology
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: pranavsairama@gmail.com
+    phone: +31 645794312
+    website: 
+    linkedin: pranav-nair-a8634611a
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@pranavsairama'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Malayalam
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hindi
         level: Professional
+        
+      - idiom: Dutch
+        level: Elementary
 
     interests:
-      - item: Climbing
+      - item: Culinary
         link:
 
-      - item: Snowboarding
+      - item: Music
         link:
 
-      - item: Cooking
+      - item: Football and Cycling
         link:
 
+      - item: Trekking
+        link:
+       
+      - item: Travelling
+        link:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Currently pursuing my MSc in Management of Technology at the Technical university of Delft I am enthusaistic about the field of Supply 
+        Chain Management. As result of the detailed course structure and projects at TU Delft and with my previous experiences, I have developed 
+        excellent time management and interpersonal skills. By virtue of the same, I am able to mould myself to face difficult situations and 
+        address them with a straight and positive mindset. I aspire to work in an affable and innovative environment where I can use my knowledge 
+        and skills in the best interests of my team and the organization.
 education:
     - degree: MSc in Management of Technology
       university: Delft University of Technology
       time: 2019 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
     - degree: B.Tech in Mechanical Engineering
       university: Manipal University Jaipur
       time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Express Logistics - Intern
+      time: Oct 2018 - April 2019
+      company: Future Supply Chain Solutions, Mumbai, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        As an Express Logistics intern, I assisted in developing a digitized (consignment) pickup-deliver(PD) system. 
+        My main contributions for the project included;
+          - Field visits to conduct inventory analysis
+          - Field testing the digitized PD system and training PD assistants
+          - Prepared Business case documents for the new PD system
+          - Provided daily inventory cooling reports
+    - role: Centre of Excellence(CoE) - Intern
+      time: Feb 2018 - May 2018
+      company: LM Wind Power, Vadodara, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        As a part of the CoE department, I was handed the responsibility of providing solutions to improve the 
+        material flow within the production shop floor. My roles 
+          - Conducted a material flow analysis of current warehouse and manufacturing processes
+          - Proposed a 5S material layout within the shopfloor to improve tool and material organisation
+          - Proposed a Kanban 3 bin system for material flow 
+    - role: Design - Intern
+      time: May 2017 - July 2017
+      company: Larsen & Toubro(L&T) - Electrical and Automation, Mumbai, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        As a design intern at L&T, I participated in a design project to facilitate the setup of an MV Drive panel for which
+        I conducted the following tasks;
+          - Structural analysis to select cable trays for the MV Drive
+          - Negotiating with vendors for crane installation at test site
 projects:
     title: Projects
     intro: >
