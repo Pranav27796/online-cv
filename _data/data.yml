@@ -103,6 +103,8 @@ experiences:
           
 extra-curricular: 
     - role: abc
+    - organisation: xyz
+
 projects:
     title: Projects
     intro: >
