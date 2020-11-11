@@ -68,7 +68,7 @@ education:
       details: |
         
     - degree: B.Tech in Mechanical Engineering
-      university: Manipal University Jaipur
+      university: Manipal University Jaipur(MUJ)
       time: 2014 - 2018
       details: |        
 experiences:
@@ -100,11 +100,30 @@ experiences:
           - Structural analysis to select cable trays for the MV Drive
           - Negotiating with vendors for crane installation at test site          
 extracurriculars: 
-    - role: abc
-      time: Jan
-      organisation: xyz
+    - role: Events Coordinator DUT 21
+      time: Sep 2020 - Present
+      organisation: Formula Student Team Delft(FSTD), Delft, Netherlands
       details: |
-        nxdjscbecnksd
+        As an events coordinator in DUT 21, I have the following responsibilities;
+          - Communicating with newspapers, magzines and youtubers for increasing team exposure
+          - Organising team presentations and showcase
+          - Organising and managing team building events 
+          
+    - role: Publicity and Promotions organiser at TedX MUJ
+      time: March 2017
+      organisation: Manipal University Jaipur, Jaipur, India
+      details:
+        My responsibility as publicity and promotions organiser for the TedX event included;
+          - Promoting Ted-Talk events in univerisities in Jaipur
+          - Promoting standup comedy events in universities all over the country
+     
+    - role: Stalls and Catering organiser at Abhivarta(sports fest at MUJ)
+      time: Jan 2017
+      organisation: Manipal University Jaipur, Jaipur, India
+      details:
+        As a stalls and catering organiser for the sports fest at Manipal University Jaipur, I was responsible for;
+          - Negotiating with restaurants and fast-food vendors to set up stalls during the fest
+          - Arranging and managing stalls and supplies for vendors during the fest
 projects:
     title: Projects
     intro: >
