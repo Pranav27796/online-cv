@@ -103,9 +103,9 @@ experiences:
           
 extra-curriculars: 
     - role: abc
-    - time: Jan
-    - organisation: xyz
-    - details: |
+      time: Jan
+      organisation: xyz
+      details: |
         nxdjscbecnksd
 
 projects:
