@@ -56,11 +56,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Currently pursuing my MSc in Management of Technology at the Technical university of Delft I am enthusaistic about the field of Supply 
-        Chain Management. As result of the detailed course structure and projects at TU Delft and with my previous experiences, I have developed 
-        excellent time management and interpersonal skills. By virtue of the same, I am able to mould myself to face difficult situations and 
-        address them with a straight and positive mindset. I aspire to work in an affable and innovative environment where I can use my knowledge 
-        and skills in the best interests of my team and the organization.
+        Currently pursuing my MSc in Management of Technology at the TU Delft I am enthusaistic about the field of Supply Chain Management. 
+        By virtue of the detailed course structure, projects at TU Delft and with my previous professional exposure, I have developed 
+        excellent time management and interpersonal skills. As a result, I am able to mould myself to face difficult situations and 
+        tackle them with a straight and positive mindset. I aspire to work in an affable and innovative environment where I can expand and apply 
+        my knowledge and skills for the benefit of my team and the organization.
 education:
     - degree: MSc in Management of Technology
       university: Delft University of Technology
@@ -103,33 +103,32 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
       - title: Solar panels for campers - Solarscape
         link: "#hook"
-        tagline: "Analysis of the supply chain of a hypothetical solar panel manufacturing company using Supply Chain Operations Reference(SCOR) 
-        and proposing ideas for smart supply chain"
+        tagline: "As a deliverable for the Logistics and Supply chain innovations course, this project conducted the analysis of the supply chain 
+        of a hypothetical solar panel manufacturing company using Supply Chain Operations Reference(SCOR) and proposing smart supply chain innovation ideas"
+
+      - title: #Smart Manufacturing Industry - Joint Interdisciplinary Project(JIP)
+        link: "#"
+        tagline: #"As a deliverable for JIP, this paper proposed automation solutions to Accell Group for "
 
       - title: Truck Platooning
         link: "#"
-        tagline: "As a deliverable for the Provided solutions for organising truck platoons in and out of the Port of Rotterdam"
+        tagline: "As a deliverable for the Integration Moments course, this project was a consultancy report providing truck platoon organisation 
+        for the Port of Rotterdam"
 
-      - title: Tempo
+      - title: 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: 
 
-      - title: Atom
+      - title: 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: 
 
 publications:
-    title: Publications
+    title: 
     intro: |
       
     papers:
@@ -149,7 +148,7 @@ publications:
         conference: 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: MS Powerpoint
