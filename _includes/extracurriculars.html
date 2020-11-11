@@ -13,10 +13,9 @@
   <div class="item">
 
     <div class="meta">
-      <h3 class="job-title">{{ ec.role }}</h3>
+      
       <div class="upper-row">
-        
-
+        <h3 class="job-title">{{ ec.role }}</h3>
         <div class="time">{{ ec.time }}</div>
       </div><!--//upper-row-->
     
@@ -27,14 +26,11 @@
     {% if ec.details %}
     <div class="details">
       {{ ec.details | markdownify }}
-    </div>
-    <!--//details-->
+    </div><!--//details-->
     {% endif %}
 
-  </div>
-  <!--//item-->
+  </div><!--//item-->
   {% endfor %}
 
-</section>
-<!--//section-->
+</section><!--//section-->
 {% endif %}
