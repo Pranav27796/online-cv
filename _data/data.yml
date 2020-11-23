@@ -131,7 +131,7 @@ projects:
         tagline: "Analysis of current bicycle assembly process at Accell Group and proposing automation solutions for improving the same"
         
       - title: Digital Business Process Management
-        link: "#"
+        link:
         tagline: "Optimisation of the Digital Business Process of the Netherlands Vehicle Authority (NVA)"
         
       - title: Solar panels for campers - Solarscape
