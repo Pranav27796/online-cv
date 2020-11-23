@@ -164,10 +164,10 @@ skills:
       - name: Latex
         level: 90%
         
-      - name: BPMN(Business Process Model and Notation) - bpmn.io 
-        level: 90%  
+      - name: CATIA 
+        level: 85%  
         
-      - name: CATIA
-        level: 85%
+      - name: Business Process Model and Notation 
+        level: 70%
 
         
