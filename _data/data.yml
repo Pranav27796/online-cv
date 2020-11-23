@@ -126,23 +126,22 @@ projects:
     intro: >
       
     assignments:
+      - title: Joint Interdisciplinary Project(JIP) - Smart Manufacturing Industry
+        link: 
+        tagline: "Analysis of current bicycle assembly process at Accell Group and proposing automation solutions for improving the same"
+        
+      - title: Digital Business Process Management
+        link: "#"
+        tagline: "Optimisation of the Digital Business Process of the Netherlands Vehicle Authority (NVA)"
+        
       - title: Solar panels for campers - Solarscape
         link: 
         tagline: "Analysis of the supply chain of a hypothetical solar panel(for campers) manufacturer using Supply Chain Operations Reference(SCOR) 
         to propose smart supply chain innovation ideas"
 
-      - title: Joint Interdisciplinary Project(JIP) - Smart Manufacturing Industry
+      - title: #Truck Platooning
         link: 
-        tagline: "Analysis of current bicycle assembly process at Accell Group and proposing automation solutions for improving the same
-
-      - title: Truck Platooning
-        link: 
-        tagline: "A consultancy report providing truck platoon organisation solutions for trucks in and out of the Port of Rotterdam"
-        
-      - title: Digital Business Process Management
-        link: "#"
-        tagline: Optimisation of the Digital Business Process of the Netherlands Vehicle Authority (NVA)
-           - Redesig
+        tagline: #"A consultancy report providing truck platoon organisation solutions for trucks in and out of the Port of Rotterdam"
 
       - title: 
         link: "#"
