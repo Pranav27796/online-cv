@@ -112,8 +112,8 @@ extracurriculars:
       time: March 2017
       organisation: Manipal University Jaipur, India
       details: |
-          - Promoting Ted Talk events in univerisities in Jaipur
-          - Promoting standup comedy events in universities all over the country  
+          - Promoting Ted Talk events in universities across Jaipur
+          - Promoting secondary events all over the country  
           
     - role: Stalls and Catering organiser at Abhivarta, Sports fest at MUJ
       time: Jan 2017
@@ -128,18 +128,22 @@ projects:
     assignments:
       - title: Joint Interdisciplinary Project(JIP) - Smart Manufacturing Industry
         link: 
-        tagline: "Analysis of current bicycle assembly process at Accell Group and proposing automation solutions for improving the same"
+        tagline: "Optimisation of the bicycle assembly process at Accell Group to reduce ineffeciencies in the current process. The main steps included 
+        analysis of the root cause of inefficiencies in the process and a detailed stakeholder analysis. Following this step, automation solutions for the 
+        assembly process development were proposed from a socio-technical organistaion point of view" 
+        "
         
       - title: Digital Business Process Management
         link:
-        tagline: "Optimisation of the Digital Business Process of the Netherlands Vehicle Authority (NVA)
-           - agaga
-           - gagag"
+        tagline: "Optimisation of the Digital Business Process of the Netherlands Vehicle Authority (NVA). This included localising the gaps in the 
+        current business process followed by developing a new business process by incorporating a mobile app to reduce communication gaps between customers
+        and the NVA"
         
       - title: Solar panels for campers - Solarscape
         link: 
-        tagline: "Analysis of the supply chain of a hypothetical solar panel(for campers) manufacturer using Supply Chain Operations Reference(SCOR) 
-        to propose smart supply chain innovation ideas"
+        tagline: "This project included an analysis of the supply chain of a hypothetical solar panel manufacturer using the using Supply Chain Operations 
+        Reference(SCOR) tool. Following which, smart supply chain innovation ideas including Blockchain and Internet of Things(IoT) were implemented for supply 
+        chain process improvement"
 
       - title: #Truck Platooning
         link: 
