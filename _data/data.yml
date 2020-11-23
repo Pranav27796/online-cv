@@ -156,18 +156,18 @@ skills:
 
     toolset:
       - name: MS Powerpoint
-        level: 
+        level: 95%
 
       - name: MS Excel 
-        level:
-        
-      - name: CATIA
-        level: 
+        level: 90%
         
       - name: Latex
-        level:  
+        level: 90%
         
       - name: BPMN(Business Process Model and Notation) - bpmn.io 
-        level: 
+        level: 90%  
+        
+      - name: CATIA
+        level: 85%
 
         
