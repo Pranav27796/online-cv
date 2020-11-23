@@ -56,11 +56,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Currently pursuing my MSc in Management of Technology at the TU Delft I am enthusaistic about the field of Supply Chain Management. 
-        By virtue of the detailed course structure and projects at TU Delft and with my previous professional exposure, I have developed 
-        excellent time management and interpersonal skills. As a result, I am able to mould myself to face difficult situations and 
-        tackle them with a straight and positive mindset. I aspire to work in an affable and innovative environment where I can expand and apply 
-        my knowledge and skills for the benefit of my team and the organization.
+        Currently pursuing my MSc in Management of Technology at the TU Delft I have a procilvility for Business Process Development, Supply Chain Management and 
+        Continuous Process Development. By virtue of the detailed course structure and projects at TU Delft and with my previous professional exposure, I have 
+        developed excellent time management and interpersonal skills. As a result, I am able to mould myself to face difficult situations and tackle them with 
+        an analytical and positive mindset. I aspire to work in an affable, diverse and innovative environment where I can expand and apply my knowledge and skills for the 
+        benefit of my team and organization.
 education:
     - degree: MSc in Management of Technology
       university: Delft University of Technology
@@ -76,18 +76,19 @@ experiences:
       time: Oct 2018 - April 2019
       company: Future Supply Chain Solutions, Mumbai, India
       details: |
-        As an Express Logistics intern, I assisted in developing a digitized (consignment) pickup-deliver(PD) system. 
-        My main contributions for the project included;
+        As an Express Logistics intern, I contributed to a business development project which included the 
+        digitization of the (consignment) pickup-deliver(PD) system.
           - Field visits to conduct inventory analysis
           - Field testing the digitized PD system and training PD assistants
           - Prepared Business case documents for the new PD system
           - Provided daily inventory cooling reports
+          - Acted as a point of contact for distribution hubs across the country  
     - role: Centre of Excellence(CoE) - Intern
       time: Feb 2018 - May 2018
       company: LM Wind Power, Vadodara, India
       details: |
         As a part of the CoE department, I was handed the responsibility of providing solutions to improve the 
-        material flow within the production shop floor. My major roles included;
+        material flow within the production facility.
           - Conducted a material flow analysis of current warehouse and manufacturing processes
           - Proposed a 5S material layout within the shopfloor to improve tool and material organisation
           - Proposed a Kanban 3 bin system for material flow 
@@ -95,7 +96,7 @@ experiences:
       time: May 2017 - July 2017
       company: Larsen & Toubro(L&T) - Electrical and Automation, Mumbai, India
       details: |
-        As a Design intern at L&T, I participated in a design project to facilitate the setup of an MV Drive panel for which
+        As a Design intern at L&T, I contributed in a development project to facilitate the setup of an MV Drive panel for which
         I conducted the following tasks;
           - Structural analysis to select cable trays for the MV Drive
           - Negotiating with vendors for crane installation at test site          
@@ -112,8 +113,7 @@ extracurriculars:
       time: March 2017
       organisation: Manipal University Jaipur, India
       details: |
-          - Promoting Ted Talk events in universities across Jaipur
-          - Promoting secondary events all over the country  
+          - Promoting Ted Talk and secondary events in universities across Jaipur
           
     - role: Stalls and Catering organiser at Abhivarta, Sports fest at MUJ
       time: Jan 2017
