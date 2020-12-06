@@ -56,11 +56,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Currently pursuing my MSc in Management of Technology at the TU Delft I have a procilvility for Business Process Development, Supply Chain Management and 
-        Continuous Process Development. By virtue of the detailed course structure and projects at TU Delft and with my previous professional exposure, I have 
-        developed excellent time management and interpersonal skills. As a result, I am able to mould myself to face difficult situations and tackle them with 
-        an analytical and positive mindset. I aspire to work in an affable, diverse and innovative environment where I can expand and apply my knowledge and skills for the 
-        benefit of my team and organization.
+        Currently pursuing my MSc in Management of Technology at the TU Delft I have a developed my knowledge and skills in the fields of Business Process 
+        Development and Supply Chain Management. By virtue of the detailed courses and projects at TU Delft combined with my previous professional exposure, I 
+        have developed excellent analytical, time management and interpersonal skills. As a result, I am able to mould myself to face difficult situations and 
+        tackle them with a positive mindset. I aspire to work in an affable, diverse and innovative environment where I can expand my knowledge and skills in order 
+        to apply it for the benefit of my team and organization.
 education:
     - degree: MSc in Management of Technology
       university: Delft University of Technology
@@ -76,13 +76,15 @@ experiences:
       time: Oct 2018 - April 2019
       company: Future Supply Chain Solutions, Mumbai, India
       details: |
-        As an Express Logistics intern, I contributed to a business development project which included the 
-        digitization of the (consignment) pickup-deliver(PD) system.
-          - Field visits to conduct inventory analysis
+        As an Express Logistics intern, I contributed to a business process development project which included the 
+        digitization of the (consignment) pickup-deliver(PD) system. My main responsibilities included;
+          - Conducted data analysis using Excel and provided daily inventory cooling reports
+          - Actively worked on the Transport Management System(TMS) to issue and approve consignment shipments
+          - Acted as a point of contact for distribution hubs across the country
+          - Field visits to distribution centres to conduct inventory analysis
+          - Communication with vendors and providing inputs for developing new PD system user interface
           - Field testing the digitized PD system and training PD assistants
-          - Prepared Business case documents for the new PD system
-          - Provided daily inventory cooling reports
-          - Acted as a point of contact for distribution hubs across the country  
+          - Preparing a Business case document for the new PD system  
     - role: Centre of Excellence(CoE) - Intern
       time: Feb 2018 - May 2018
       company: LM Wind Power, Vadodara, India
@@ -90,37 +92,43 @@ experiences:
         As a part of the CoE department, I was handed the responsibility of providing solutions to improve the 
         material flow within the production facility.
           - Conducted a material flow analysis of current warehouse and manufacturing processes
-          - Proposed a 5S material layout within the shopfloor to improve tool and material organisation
-          - Proposed a Kanban 3 bin system for material flow 
+          - Used tools like spaghetti diagrams to study waste generated due to unwanted movement of personnel and resources
+          - Proposed a new raw material layout within the shopfloor for material organisation
+          - Proposed a 5S solutions for tool and material layout within the shop floor 
+          - Proposed a Kanban 3 bin system for Just-in-Time(JIT) material flow 
     - role: Design - Intern
       time: May 2017 - July 2017
       company: Larsen & Toubro(L&T) - Electrical and Automation, Mumbai, India
       details: |
-        As a Design intern at L&T, I contributed in a development project to facilitate the setup of an MV Drive panel for which
-        I conducted the following tasks;
-          - Structural analysis to select cable trays for the MV Drive
+        As a Design intern at L&T, I contributed in a development project to facilitate the setup of an MV Drive panel testing site. My main responsibilities 
+        included the following tasks;
+          - Assessment of possible test sites within the factory
+          - Structural analysis of cable tray options for selection of the MV Drive cables trays
           - Negotiating with vendors for crane installation at test site          
 extracurriculars: 
     - role: Events Coordinator DUT 21
       time: Sep 2020 - Present
       organisation: Formula Student Team Delft(FSTD), Delft, Netherlands
       details: |
-          - Organising and managing team building events
-          - Contacting newspapers, magzines and youtubers for increasing team exposure
+          - Organising and managing team building events such as trivia quizes, go-kart outings
+          - Contacting and negotiating with vendors for preparing team apparel and goodies
           - Organising team presentations and showcase
+          - Preparing scripts for events and showcase presentations 
           
     - role: Publicity and Promotions organiser at TedX MUJ
       time: March 2017
       organisation: Manipal University Jaipur, India
       details: |
-          - Promoting Ted Talk and secondary promotion events in universities across Jaipur
+          - Promoting Ted Talk events in various universities
+          - Promoting secondary promotion events in MUJ
           
     - role: Stalls and Catering organiser at Abhivarta, Sports fest at MUJ
       time: Jan 2017
       organisation: Manipal University Jaipur, India
       details: |
-          - Negotiating with restaurants and fast-food vendors to set up stalls during the fest
-          - Setting up and managing stalls and supplies for vendors during the fest
+          - Negotiating with restaurants and fast-food vendors to set up stalls within the university for the fest
+          - Setting up stalls for restaurants and fast-food vendors
+          - Managing vendor requirements and supplies during the fest
 projects:
     title: Projects
     intro: >
@@ -134,15 +142,18 @@ projects:
         
       - title: Digital Business Process Management
         link:
-        tagline: "Optimisation of the Digital Business Process of the Netherlands Vehicle Authority (NVA). This included localising the gaps in the 
-        current business process followed by developing a new business process by incorporating a mobile app to reduce communication gaps between customers
-        and the NVA"
+        tagline: "The objective of this project was to redesign the process for the administration and oversight of the General Safety Check (GSC) of the
+        Netherlands Vehicle Authority (NVA). Optimisation of the Business Process for the NVA was done by implementing a mobile application which can be be used 
+        to raise risk awareness among car owners and report suspicions or sub-standard service or fraud. The new tier system takes away the barriers for reporting 
+        issues and increases transparency towards both the car owner and the NVA. The mobile application also acts as a gateway to more digitized services using 
+        eID in the future."
         
       - title: Solar panels for campers - Solarscape
         link: 
-        tagline: "This project included an analysis of the supply chain of a hypothetical solar panel manufacturer using the using Supply Chain Operations 
-        Reference(SCOR) tool. Following which, smart supply chain innovation ideas including Blockchain and Internet of Things(IoT) were implemented for supply 
-        chain process improvement"
+        tagline: "The objective of this project was to analyse the supply chain of a hypothetical solar panel manufacturer. By using the using Supply Chain 
+        Operations Reference(SCOR) tool, the framework for the firm's supply chain is analysed in depth. A strengths, weaknesses, opportunities and threats (SWOT) 
+        analysis was also used to localise issues in the supply chain in this process. Finally, smart supply chain innovation ideas including Blockchain and 
+        Internet of Things(IoT) were implemented for improving the firm's supply chain operations"
 
       - title: #Truck Platooning
         link: 
