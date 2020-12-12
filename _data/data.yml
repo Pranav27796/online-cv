@@ -56,9 +56,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Currently pursuing my MSc in Management of Technology at the TU Delft I have a developed my knowledge and skills in the fields of Business Process 
-        Development and Supply Chain Management. By virtue of the detailed courses and projects at TU Delft combined with my previous professional exposure, I 
-        have developed excellent analytical, time management and interpersonal skills. As a result, I am able to mould myself to address difficult situations with
+        Currently pursuing my MSc in Management of Technology at the TU Delft I have developed a procivlity towards the fields of Business Process Development 
+        and Supply Chain Management. By virtue of the detailed courses and projects at TU Delft combined with my previous professional exposure, I have 
+        developed excellent analytical, time management and interpersonal skills. As a result, I am able to mould myself to address difficult situations with
         a positive mindset. I aspire to work in an affable, diverse and innovative environment where I can expand my knowledge and skills in order to apply it 
         for the benefit of my team and organization.
 education:
@@ -70,7 +70,7 @@ education:
     - degree: B.Tech in Mechanical Engineering
       university: Manipal University Jaipur(MUJ)
       time: 2014 - 2018
-      details: |        
+      details: 8.02/10 CGPA        
 experiences:
     - role: Express Logistics - Intern
       time: Oct 2018 - April 2019
@@ -78,11 +78,11 @@ experiences:
       details: |
         As an Express Logistics intern, I contributed to a business process development project which included the 
         digitization of the (consignment) pickup-deliver(PD) system. My main responsibilities included;
-          - Conducted data analysis using Excel and provided daily inventory cooling reports
-          - Actively worked on the Transport Management System(TMS) to issue and approve consignment shipments
+          - Conducting data analysis using Excel and providing daily inventory cooling reports
+          - Actively worked on the Transport Management System(TMS) for approving consignment arrival and departures
           - Acted as a point of contact for distribution hubs across the country
           - Field visits to distribution centres to conduct inventory analysis
-          - Communication with vendors and providing inputs for developing new PD system user interface
+          - Communicating with vendors and providing inputs for developing new PD system user interface
           - Field testing the digitized PD system and training PD assistants
           - Assisted in planning and procurement of material requirements including Hand held terminals, wifi routers and bus cables
           - Preparing a Business case document for the new PD system  
@@ -91,7 +91,7 @@ experiences:
       company: LM Wind Power, Vadodara, India
       details: |
         As a part of the CoE department, I was handed the responsibility of providing solutions to improve the 
-        material flow within the production facility.
+        material flow within the production facility. My main responsibilities included;
           - Conducted a material flow analysis of current warehouse and manufacturing processes
           - Used tools like spaghetti diagrams to study waste generated due to unwanted movement of personnel and resources
           - Proposed a new raw material planning within the shopfloor
@@ -102,7 +102,7 @@ experiences:
       company: Larsen & Toubro(L&T) - Electrical and Automation, Mumbai, India
       details: |
         As a Design intern at L&T, I contributed in a development project to facilitate the setup of an MV Drive panel testing site. My main responsibilities 
-        included the following tasks;
+        included;
           - Assessment of possible test sites within the factory
           - Structural analysis of cable tray options for selection of the MV Drive cables trays
           - Negotiating with vendors for crane installation at test site          
@@ -113,8 +113,9 @@ extracurriculars:
       details: |
           - Organising and managing team building events such as trivia quizes, go-kart outings
           - Contacting and negotiating with vendors for preparing team apparel and goodies
+          - Negotiating with event organisers for design presentation event
           - Organising team presentations and showcase
-          - Preparing scripts for events and showcase presentations 
+          - Preparing scripts for various events and showcase presentations 
           
     - role: Publicity and Promotions organiser at TedX MUJ
       time: March 2017
