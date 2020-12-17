@@ -152,14 +152,14 @@ projects:
         tagline: "The objective of this project was to analyse the supply chain of a hypothetical solar panel manufacturer. By using the using Supply Chain 
         Operations Reference(SCOR) tool, the framework for the firm's supply chain is analysed in depth. A strengths, weaknesses, opportunities and threats (SWOT) 
         analysis was also used to localise issues in the supply chain in this process. Finally, smart supply chain innovation ideas including Blockchain and 
-        Internet of Things(IoT) were implemented for improving the firm's supply chain operations"
+        Internet of Things(IoT) were implemented for improving the firm's supply chain operations."
 
       - title: Marketing Analysis of Beer Manufacturers
         link: 
-        tagline: This project was conducted to study the marketing plans of beer manufacturers including the market leader, market challenger and a niche frim in 
+        tagline: "This project was conducted to study the marketing plans of beer manufacturers including the market leader, market challenger and a niche frim in 
         the industry. The main objectives included analysing the competitive strategies of each firm, how they can maintain their market position, a marketing plan 
         for each firm derived from a detailed strengths, weaknesses, opportunities and threats (SWOT) analysis based on the traditional marketing mix(4P's). Finally, 
-        a campaign plan for each manufacturer was drafted based the strategies that were best fit for their success in the respective markets.
+        a campaign plan for each manufacturer was drafted based the strategies that were best fit for their success in the respective markets."
 
       - title: 
         link: "#"
