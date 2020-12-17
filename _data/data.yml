@@ -56,11 +56,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Currently pursuing my MSc in Management of Technology at the TU Delft I have developed a procivlity towards the fields of Business Process Development 
-        and Supply Chain Management. By virtue of the detailed courses and projects at TU Delft combined with my previous professional exposure, I have 
-        developed excellent analytical, time management and interpersonal skills. As a result, I am able to mould myself to address difficult situations with
-        a positive mindset. I aspire to work in an affable, diverse and innovative environment where I can expand my knowledge and skills in order to apply it 
-        for the benefit of my team and organization.
+        Currently pursuing my MSc in Management of Technology at the TU Delft I am following a track in Supply Chain Management. By virtue of the detailed 
+        courses and projects at TU Delft combined with my previous professional exposure, I have  developed skills in data analysis, decision making, leadership, 
+        startegic thinking and interpersonal relations. As a result, I have drawn a proclivity for the fields of Supply Chain management, Market analysis and 
+        Business development. I aspire to work in an affable, diverse and innovative environment where I can build my knowledge and skills for the benefit of my
+        team and organisation.
 education:
     - degree: MSc in Management of Technology
       university: Delft University of Technology
@@ -76,27 +76,24 @@ experiences:
       time: Oct 2018 - April 2019
       company: Future Supply Chain Solutions, Mumbai, India
       details: |
-        As an Express Logistics intern, I contributed to a business process development project which included the 
+        As an Express Logistics intern, I contributed to a business process development project for the 
         digitization of the (consignment) pickup-deliver(PD) system. My main responsibilities included;
-          - Conducting data analysis using Excel and providing daily inventory cooling reports
-          - Actively worked on the Transport Management System(TMS) for approving consignment arrival and departures
-          - Acted as a point of contact for distribution hubs across the country
-          - Field visits to distribution centres to conduct inventory analysis
-          - Communicating with vendors and providing inputs for developing new PD system user interface
+          - Conducting data analysis for inventory management
+          - Actively worked on the Transport Management System(TMS)
+          - Communicating with vendors for developing new PD system user interface
           - Field testing the digitized PD system and training PD assistants
-          - Assisted in planning and procurement of material requirements including Hand held terminals, wifi routers and bus cables
-          - Preparing a Business case document for the new PD system  
+          - Assisted in planning and procurement of material requirements for the PD system
+          - Preparing a Business case document for the PD system  
     - role: Centre of Excellence(CoE) - Intern
       time: Feb 2018 - May 2018
       company: LM Wind Power, Vadodara, India
       details: |
         As a part of the CoE department, I was handed the responsibility of providing solutions to improve the 
         material flow within the production facility. My main responsibilities included;
-          - Conducted a material flow analysis of current warehouse and manufacturing processes
-          - Used tools like spaghetti diagrams to study waste generated due to unwanted movement of personnel and resources
-          - Proposed a new raw material planning within the shopfloor
-          - Proposed a 5S solutions for tool and material planning within the shop floor 
-          - Proposed a Kanban 3 bin system for Just-in-Time(JIT) material flow 
+          - Conducted a material flow analysis of warehouse and manufacturing process
+          - Analysed non-value added(NVA) activities in plant using spaghetti diagrams
+          - Proposed a new raw material planning and supply from the warehouse to shop-floor
+          - Proposed a Kanban 3 bin system for raw material supply within the shop-floor 
     - role: Design - Intern
       time: May 2017 - July 2017
       company: Larsen & Toubro(L&T) - Electrical and Automation, Mumbai, India
@@ -112,7 +109,7 @@ extracurriculars:
       organisation: Formula Student Team Delft(FSTD), Delft, Netherlands
       details: |
           - Organising and managing team building events such as trivia quizes, go-kart outings
-          - Contacting and negotiating with vendors for preparing team apparel and goodies
+          - Contacting vendors for preparing team apparel and goodies
           - Negotiating with event organisers for design presentation event
           - Organising team presentations and showcase
           - Preparing scripts for various events and showcase presentations 
@@ -144,7 +141,7 @@ projects:
         
       - title: Digital Business Process Management
         link:
-        tagline: "The objective of this project was to redesign the process for the administration and oversight of the General Safety Check (GSC) of the
+        tagline: "This project was aimed at redesigning the process for the administration and oversight of the General Safety Check (GSC) of the
         Netherlands Vehicle Authority (NVA). Optimisation of the Business Process for the NVA was done by implementing a mobile application which can be be used 
         to raise risk awareness among car owners and report suspicions or sub-standard service or fraud. The new tier system takes away the barriers for reporting 
         issues and increases transparency towards both the car owner and the NVA. The mobile application also acts as a gateway to more digitized services using 
@@ -157,9 +154,12 @@ projects:
         analysis was also used to localise issues in the supply chain in this process. Finally, smart supply chain innovation ideas including Blockchain and 
         Internet of Things(IoT) were implemented for improving the firm's supply chain operations"
 
-      - title: #Truck Platooning
+      - title: Marketing Analysis of Beer Manufacturers
         link: 
-        tagline: #"A consultancy report providing truck platoon organisation solutions for trucks in and out of the Port of Rotterdam"
+        tagline: This project was conducted to study the marketing plans of beer manufacturers including the market leader, market challenger and a niche frim in 
+        the industry. The main objectives included analysing the competitive strategies of each firm, how they can maintain their market position, a marketing plan 
+        for each firm derived from a detailed strengths, weaknesses, opportunities and threats (SWOT) analysis based on the traditional marketing mix(4P's). Finally, 
+        a campaign plan for each manufacturer was drafted based the strategies that were best fit for their success in the respective markets.
 
       - title: 
         link: "#"
@@ -169,7 +169,7 @@ skills:
 
     toolset:
       - name: MS Powerpoint
-        level: 95%
+        level: 90%
 
       - name: MS Excel 
         level: 90%
