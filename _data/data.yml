@@ -72,6 +72,11 @@ education:
       time: 2014 - 2018
       details: 8.02/10 CGPA        
 experiences:
+
+    - role: Global Logistics & Material Planning - Intern
+      time: March 2021 - Present
+      company: Henkel Global Supply Chain B.V., Amsterdam-Zuid, Netherlands
+      details: 
     - role: Express Logistics - Intern
       time: Oct 2018 - April 2019
       company: Future Supply Chain Solutions, Mumbai, India
@@ -104,15 +109,14 @@ experiences:
           - Structural analysis of cable tray options for selection of the MV Drive cables trays
           - Negotiating with vendors for crane installation at test site          
 extracurriculars: 
-    - role: Events Coordinator DUT 21
+    - role: Operations DUT 21
       time: Sep 2020 - Present
       organisation: Formula Student Team Delft(FSTD), Delft, Netherlands
       details: |
-          - Organising and managing team building events such as trivia quizes, go-kart outings
+          - Organising and managing team building events
           - Contacting vendors for preparing team apparel and goodies
-          - Negotiating with event organisers for design presentation event
           - Organising team presentations and showcase
-          - Preparing scripts for various events and showcase presentations 
+          - Preparing scripts for various events and showcases
           
     - role: Publicity and Promotions organiser at TedX MUJ
       time: March 2017
@@ -168,17 +172,14 @@ skills:
     title: Skills
 
     toolset:
-      - name: MS Powerpoint
+      - name: MS Office
         level: 90%
 
-      - name: MS Excel 
+      - name: Latex 
         level: 90%
         
-      - name: Latex
-        level: 90%
-        
-      - name: CATIA 
-        level: 85%  
+      - name: SAP
+        level: 70%  
         
       - name: Business Process Model and Notation 
         level: 70%
