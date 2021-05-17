@@ -143,13 +143,13 @@ projects:
         analysis of the root cause of inefficiencies in the process and a detailed stakeholder analysis. Following this step, automation solutions for the 
         assembly process development were proposed from a socio-technical organistaion point of view." 
         
-      - title: Digital Business Process Management
-        link:
-        tagline: "This project was aimed at redesigning the process for the administration and oversight of the General Safety Check (GSC) of the
-        Netherlands Vehicle Authority (NVA). Optimisation of the Business Process for the NVA was done by implementing a mobile application which can be be used 
-        to raise risk awareness among car owners and report suspicions or sub-standard service or fraud. The new tier system takes away the barriers for reporting 
-        issues and increases transparency towards both the car owner and the NVA. The mobile application also acts as a gateway to more digitized services using 
-        eID in the future."
+#       - title: Digital Business Process Management
+#         link:
+#         tagline: "This project was aimed at redesigning the process for the administration and oversight of the General Safety Check (GSC) of the
+#         Netherlands Vehicle Authority (NVA). Optimisation of the Business Process for the NVA was done by implementing a mobile application which can be be used 
+#         to raise risk awareness among car owners and report suspicions or sub-standard service or fraud. The new tier system takes away the barriers for reporting 
+#         issues and increases transparency towards both the car owner and the NVA. The mobile application also acts as a gateway to more digitized services using 
+#         eID in the future."
         
       - title: Solar panels for campers - Solarscape
         link: 
@@ -158,12 +158,12 @@ projects:
         analysis was also used to localise issues in the supply chain in this process. Finally, smart supply chain innovation ideas including Blockchain and 
         Internet of Things(IoT) were implemented for improving the firm's supply chain operations."
 
-      - title: Marketing Analysis of Beer Manufacturers
-        link: 
-        tagline: "This project was conducted to study the marketing plans of beer manufacturers including the market leader, market challenger and a niche frim in 
-        the industry. The main objectives included analysing the competitive strategies of each firm, how they can maintain their market position, a marketing plan 
-        for each firm derived from a detailed strengths, weaknesses, opportunities and threats (SWOT) analysis based on the traditional marketing mix(4P's). Finally, 
-        a campaign plan for each manufacturer was drafted based the strategies that were best fit for their success in the respective markets."
+#       - title: Marketing Analysis of Beer Manufacturers
+#         link: 
+#         tagline: "This project was conducted to study the marketing plans of beer manufacturers including the market leader, market challenger and a niche frim in 
+#         the industry. The main objectives included analysing the competitive strategies of each firm, how they can maintain their market position, a marketing plan 
+#         for each firm derived from a detailed strengths, weaknesses, opportunities and threats (SWOT) analysis based on the traditional marketing mix(4P's). Finally, 
+#         a campaign plan for each manufacturer was drafted based the strategies that were best fit for their success in the respective markets."
 
       - title: 
         link: "#"
