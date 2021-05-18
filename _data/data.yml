@@ -56,24 +56,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        A highly motivated and innovative graduate with a MSc in Management of Technology in the track Supply Chain Management from TU Delft. Seeking a position as a Junior Supply Chain
-        Manager.   SAP, Excel, PowerBI, MS Office
+        I am a highly motivated and innovative individual with great passion for Supply Chain management and Planning. I am currently in the second year of my MSc in Management 
+        of Technology, following a specilization in Supply Chain Management at TU Delft. With 2 years of industry experience, I have developed strong technical skills in SAP, Excel, 
+        Power BI, TMS. By virtue of my excellent interpersonal skills, I have the ability to effectively communicate with a diverse and cross-functional team. I am seeking a role as 
+        a Material Planning Specalist to use my experience and skills to streamline the material supply process.   
         
-        Currently pursuing my MSc in Management of Technology at the TU Delft I am following a track in Supply Chain Management. By virtue of the detailed 
-        courses and projects at TU Delft combined with my previous professional exposure, I have  developed skills in data analysis, decision making, leadership, 
-        startegic thinking and interpersonal relationships. I have drawn a proclivity for the fields of Supply Chain management, Market analysis and 
-        Business development. I aspire to work in an affable, diverse and innovative environment where I can build my knowledge and skills for the benefit of my
-        team and organisation.
+       
 education:
     - degree: MSc in Management of Technology
       university: Delft University of Technology
       time: 2019 - 2021
       details: |
+        Specalization - Supply Chain Managemnet
         
     - degree: B.Tech in Mechanical Engineering
       university: Manipal University Jaipur(MUJ)
       time: 2014 - 2018
-      details: 8.02/10 CGPA        
+      details: |
+        8.02/10 CGPA        
 experiences:
 
     - role: Global Logistics & Material Planning - Intern
@@ -82,7 +82,7 @@ experiences:
       details: |
         
           - Coordinating and mapping Supply Chain Projects and savings generated
-          - Longterm material Forecast Analysis
+          - Long-term material Forecast Review
           - High level dashboard for Raw and Packaging material
           - Repalletization for Truck usage optimization
           - Monthly data extraction
