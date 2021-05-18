@@ -57,7 +57,7 @@ career-profile:
     title: Career Profile
     summary: |
         Highly motivated with a MSc in Management of Technology in the track Supply Chain Management from TU Delft. Seeking a position as a Junior Supply Chain
-        Manager.  
+        Manager.   SAP, Excel, PowerBI, MS Office
         
         Currently pursuing my MSc in Management of Technology at the TU Delft I am following a track in Supply Chain Management. By virtue of the detailed 
         courses and projects at TU Delft combined with my previous professional exposure, I have  developed skills in data analysis, decision making, leadership, 
@@ -79,7 +79,18 @@ experiences:
     - role: Global Logistics & Material Planning - Intern
       time: March 2021 - Present
       company: Henkel Global Supply Chain B.V., Amsterdam-Zuid, Netherlands
-      details: 
+      details: |
+        
+          - Coordinating and mapping Supply Chain Projects and savings generated
+          - Longterm material Forecast Analysis
+          - High level dashboard for Raw and Packaging material
+          - Repalletization for Truck usage optimization
+          - Monthly data extraction
+          - Exceptional Purchase Order cleanup procedure setup and handover
+          - L-plant creation process establishment
+          - Follow up with regional teams for project updates
+          - Logistics plant mapping and 
+      
     - role: Express Logistics - Intern
       time: Oct 2018 - April 2019
       company: Future Supply Chain Solutions, Mumbai, India
