@@ -184,10 +184,13 @@ skills:
     title: Skills
 
     toolset:
-      - name: MS Office
-        level: 90%
-
-      - name: Latex 
+      - name: MS Excel
+        level: 95%
+        
+      - name: SAP
+        level: 80%
+        
+      - name: SAP 
         level: 90%
         
       - name: SAP
